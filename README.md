@@ -9,14 +9,9 @@ Adapted from the [The Minimal React Redux Setup](https://www.robinwieruch.de/min
 US Airport Distance Calculator is a web app built with Reac/Redux that allows you to search for airports in the United States and calculates the distance between them in nautical miles. The airports will also be placed as markers on a Google map, displaying the geodesic path between them.
 * Name: Jong Suk Park
 * Email: jjong7345@gmail.com
-* Contacted Creative Technologist: Justin Pogrob, Jeff Powers
-* Submission Data: 5/21/2018
-* Spent hour: 12 hours
 
 ## Installation
 
-* `git clone git@github.com/jeffpowrs/minimal-react-redux-setup.git`
-* cd to root directory of the project
 * npm install
 * npm start
 * visit `http://localhost:8080/`
